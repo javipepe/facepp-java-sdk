@@ -1,7 +1,7 @@
 # FacePlusPlus Java SDK
 
 This SDK uses apache.http lib and json lib.
-The new FacePP API has been online in 17 Oct. 2013.
+The new FacePP API has been online in 17 Oct. 2013
 
 ## 1. Install
 1. download [faceppsdk.jar](https://raw.github.com/FacePlusPlus/facepp-java-sdk/facepp-v3/FaceppSDK/output/faceppsdk.jar);
